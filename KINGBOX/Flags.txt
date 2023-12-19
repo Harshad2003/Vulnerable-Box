@@ -1,0 +1,5 @@
+flag{F1leUploader$uck3d}
+flag{NoAnonimityHere!!}
+flag{HaHa_tryKING}
+flag{GoodEscalation}
+flag{YouShowedYourDominance}
